@@ -1,0 +1,4 @@
+name: team18env
+channels:
+  - defaults
+prefix: /Users/daria/anaconda3/envs/team18env

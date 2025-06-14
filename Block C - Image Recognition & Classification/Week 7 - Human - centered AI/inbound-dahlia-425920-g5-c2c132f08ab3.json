@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inbound-dahlia-425920-g5",
+  "private_key_id": "c2c132f08ab3e7e924440197a127e67c1215d6f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2IfrC8FLX6hR5\n1/vlFup2qiNkVbgO/0AcGcKLF5T/WLC1aCmzRh+65S9UBF3miuw7eZ/w81rH2i7u\nLRnyWIK8CWvdmw1f3/p/4y2pWByYu0Qis7aMJ9znNa3E5zuQ4s2zXBD4Q6HHoaDI\nFRhjn1/np+yQe/PECI9xLdbBqx6oWWASNib0BGj/2IlMXKZlFF7wUJJZGpT55zxI\nNY+g36OkxvrN4jB/bRZ5nfgTgYN/52k/2zzut8atmkmcr8uBrnRjb2X2ThT3clbx\nTLhtUpE1TsT/NseXTJbAKE7nuAWhgDSyu3R28psxWsiMAafSXFdcyX8ntD3c6TDn\nui6uelhdAgMBAAECggEABtkANJQUiUmju3EDZ3mVFyEOc5dFdErkfin5xoD8eR08\nh5WC+9qHFt/HB8GiRiiy+Ql5mfWMVDc/zHSlpRbu02MHSy2pMxGYuXYxIUzOxm9E\nAIoBMwPMqmS6Q8zt0GS2lye++5aPXpIVGXCxmg1D7dHCcyw13gj0W6z9hgqI/ItP\ncoSDgoBNAEe9faD6k6vjX0KNFB4FPylhQtFgg0ZCwK6UWfusaVus2EbPgiK/hWxc\nWME9vy897ebFh1P46ByZwcKV7cjE8bJon+5ZUYqYCiqIPTszU9+yd5a6OZChHM1i\nMPjb3PqoEfCSs30kfQg69sI2ji/XRX90hL1hZvFgAQKBgQDfD/DHQ4LN4SpiV2A3\nBTl3MOWl1ShwzaQRV4aPnEz6p/rcq1OuZkbwBU5sOCF9yy0w8TE1G1Njj0DTEvkg\nWi6WfOlzF/8LNFySVNBD6e/q4lIMtJWu9YFT7GKeem3T1f4zaBrbC2oJQGmmvj18\n667ljNT4VvqiWAW1igQdjHvqQQKBgQDRBtiyE9nC9KEVxpmBLVAzDpgv+nskdzXT\nOzb3ORBfH5FptoCLjKwntMMZ43PMVmbrTuovrXiilYyjnlY6ha431kekszkk7zRH\nsV88AVEH6FSS6ds4UAZyRy46Xt0IgNvgNzGNLVmAAlRj4BF3+U3cTpYNbFH5t7jh\n/sK6PfcPHQKBgF/sg/e88YhFtytZNdgTWBYIoglBdEWmOVL317b0WSpFiJzS1Iag\nFwtqzMG/Fa/56rIsVqPm32JmHVNnylh+T6CJkP7cp+ISn2iSLom2FWVl9DDgi6oU\ni4wikHpkXcyGLu2+bCYcb3oRCB4bm2eYFrtCZ+dvyBJ+Vd4uvvxSCIvBAoGAHT54\n+MkgMU9qbhKADXuaedoz3pqLuflXtXrWYNZB/Rz8ii63Y07GEzQOC8QvwkngUlGT\nICKD+zMzHv0bEUr8qeE32socV5eD1/fv3ARPIu0VUAyZ2BISJNDindYB1Ju6p27x\nZtAOcoNg7Sw/JWriwszX337lJSvYGP48njPnKd0CgYEAgK+Zh+TbrNZl0zOQGKRc\nCk7GGSJ/HgdCPNx8mGstNFWetbU7epLlYFnnWwWRE+7dAzqoC8/mlOzRjKa9/BSw\n90cz8cbKiUlKlXwWW8t+mfTlqImm2+ELAT6VvUkIR3Y8Nya0n6M/LQtx4Cn1AKpv\nMeiV7mCsmgve3YKIm3duyjg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "interview-transcriber@inbound-dahlia-425920-g5.iam.gserviceaccount.com",
+  "client_id": "102231197215045149734",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/interview-transcriber%40inbound-dahlia-425920-g5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

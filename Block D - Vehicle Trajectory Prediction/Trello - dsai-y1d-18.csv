@@ -1,0 +1,85 @@
+Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Comment Count,List ID,List Name,Board ID,Board Name,Archived,Due Complete
+Presenting Final Presentation,https://trello.com/c/Zt06Nx8H/51-presenting-final-presentation,,ILO 4.1 - Business (yellow_light),"221846, 2334641, 2339001, 2365781",2024-06-21T15:00:00.000Z,0,,0,0,0,664dfe4299eba99dd3219a52,To do,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Confirm completed tasks (Assessment rubric),https://trello.com/c/zWcd1u5s/50-confirm-completed-tasks-assessment-rubric,,"ILO 1.4 - Feedback (yellow), ILO 1.5 - Communication (orange), ILO 1.6 - Accountability (purple), ILO 3.1 - Legal Framework (blue), ILO 4.1 - Business (yellow_light), ILO 5.1 - Data & SQL (red), ILO 6.1 - ML (sky), ILO 7.1 - Deployment (green)",,2024-06-17T21:59:00.000Z,0,,0,0,0,664dfe420018c2e603b1413d,In Progress,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Final Presentation,https://trello.com/c/EWuBAMvk/48-final-presentation,Complete final presentation,ILO 4.1 - Business (yellow_light),"221846, 2334641, 2339001, 2365781",2024-06-14T21:59:00.000Z,0,,0,0,0,664dfe420018c2e603b1413d,In Progress,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Write High Level Plan,https://trello.com/c/aGfgx5sO/8-write-high-level-plan,Writing a high level plan per week,ILO 1.1 - Planning (lime),,,1,https://edubuas-my.sharepoint.com/:f:/g/personal/221846_buas_nl/EiQ2YR-L225IkEjO85FThGcB4Wbr4zceGffUL1ebviGlOQ?e=nmIwrm,4,4,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Interface Design,https://trello.com/c/WQ7qJ5YL/9-interface-design,,,"221846, 2365781",2024-06-09T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Pre-process the datasets,https://trello.com/c/nOXv9iJD/10-pre-process-the-datasets,"Pre-processing techniques applied to our datasets (normalization, standardization, missing values, handling outliers, etc.)",ILO 5.1 - Data & SQL (red),,,2,"https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/OpenMeteoBreda%20-%20EDA.ipynb, https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/KNMI-Preprocessing-.ipynb",7,7,4,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Load the data to Jupiter notebook,https://trello.com/c/waCcmsu3/11-load-the-data-to-jupiter-notebook,,ILO 5.1 - Data & SQL (red),,2024-05-27T21:59:00.000Z,0,,4,4,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Define preprocessing task in PDF,https://trello.com/c/9DZZlcrF/12-define-preprocessing-task-in-pdf,"o   Define preprocessing tasks and document in PDF file.
+
+Write which cleaning action you are going to perform
+
+Combine all to one PDF file",ILO 5.1 - Data & SQL (red),,2024-05-28T21:59:00.000Z,2,"https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/KNMI-%20preprocessing%20documentation.odt, https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/Improve%20the%20safety%20in%20Breda%20-%20Preprocessing%20file.pdf",4,4,1,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+Write all the tasks in Trello,https://trello.com/c/CoGIirRt/14-write-all-the-tasks-in-trello,,ILO 1.1 - Planning (lime),221846,2024-05-28T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+Perform standardizes formats and encodes categorical variables.,https://trello.com/c/4K0WEoJb/15-perform-standardizes-formats-and-encodes-categorical-variables,"Perform standardizes formats and encodes categorical variables.
+
+ILO 5.1 SUFFICIENT",ILO 5.1 - Data & SQL (red),,2024-05-29T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+"Join, normalize, and standardize numerical features",https://trello.com/c/bMXOZm90/16-join-normalize-and-standardize-numerical-features,"Join data sets, normalize, and standardize numerical features
+
+ILO 5.1 GOOD",ILO 5.1 - Data & SQL (red),,2024-05-29T21:59:00.000Z,0,,3,3,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Splits the dataset,https://trello.com/c/1Q79ZJHy/17-splits-the-dataset,"Splits the dataset into training, validation.
+
+ILO 5.1 SUFFICIENT",ILO 5.1 - Data & SQL (red),,2024-05-29T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+Extracts or create features,https://trello.com/c/t1xvOtRp/18-extracts-or-create-features,"Extracts relevant features or creates new features from date and time information.
+
+**OR**
+
+Creates new features from existing features to generate more informative ones.
+
+‌
+
+ILO 5.1 GOOD",ILO 5.1 - Data & SQL (red),,2024-05-29T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+Team re-view for data preprocessing.,https://trello.com/c/VDaH4oL2/19-team-re-view-for-data-preprocessing," Team re-view for data preprocessing.
+
+Approval of final data set version we will work with.","ILO 1.4 - Feedback (yellow), ILO 1.5 - Communication (orange), ILO 5.1 - Data & SQL (red)","221846, 2334641, 2339001, 2365781",2024-05-30T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Evidencing ILO 5.1,https://trello.com/c/9xe1Pejw/20-evidencing-ilo-51,Evidencing all data tasks in Jupiter notebook & Learning Log,ILO 5.1 - Data & SQL (red),,2024-05-30T21:59:00.000Z,1,https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/Section%20C%20-%20ILO%20slides.pptx,4,4,1,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Write ML Model,https://trello.com/c/4JH40ZPo/21-write-ml-model,"Make random forest & another model.
+
+Use assignment guidelines to select a model.
+
+ILO 6 - POOR",ILO 6.1 - ML (sky),"221846, 2365781",,1,https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/Assessment%20Guidelines%20for%20ILO%206.0.pdf,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Legal framework – level of risk,https://trello.com/c/NCKLv3aF/22-legal-framework-level-of-risk,Legal framework – identify the level of risk and explains it.,ILO 3.1 - Legal Framework (blue),2339001,2024-06-03T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Train the models.,https://trello.com/c/5EgFbSkS/23-train-the-models,"Train 2 models
+
+ILO 6.1 - POOR",ILO 6.1 - ML (sky),,2024-06-03T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Evaluate and compare outputs,https://trello.com/c/tg3mJ3fs/24-evaluate-and-compare-outputs,"Evaluate and compare outputs (Markdown: explanation of the results)
+
+Accuracy, precision, recall, F1 score
+
+ILO 6.1 - INSUFFICIENT",ILO 6.1 - ML (sky),2365781,,0,,3,3,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Identify framework vital legal requirements and obligations.,https://trello.com/c/x1PXapS7/25-identify-framework-vital-legal-requirements-and-obligations,"Identify framework vital legal requirements and obligations.
+
+ILO 3.1 - INSUFFICIENT",ILO 3.1 - Legal Framework (blue),2339001,2024-06-03T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+Provide feedback: Legal framework & Selection of ML models.,https://trello.com/c/Tv6aKj9s/27-provide-feedback-legal-framework-selection-of-ml-models,Provide feedback: Legal Framework & Selection of ML models.,"ILO 1.4 - Feedback (yellow), ILO 1.5 - Communication (orange), ILO 3.1 - Legal Framework (blue)","221846, 2334641, 2339001, 2365781",2024-06-04T21:59:00.000Z,0,,3,3,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Framework and reasoning,https://trello.com/c/wZJEnhSr/28-framework-and-reasoning,"Select suitable frameworks.
+Add reasoning for not including legal frameworks. argue why things are included or excluded based on the facts and details (examples and sources).",ILO 3.1 - Legal Framework (blue),,2024-06-04T21:59:00.000Z,0,,3,3,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Analysing trade-off XAI,https://trello.com/c/TR7R4CNI/29-analysing-trade-off-xai,"Analysing trade-off (XAI).
+
+‌
+
+ILO 6.1 - GOOD",ILO 6.1 - ML (sky),2339001,2024-06-05T21:59:00.000Z,0,,2,2,1,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+"Write model complexity (e.g., training time, interpretability).",https://trello.com/c/fjkiktNg/31-write-model-complexity-eg-training-time-interpretability,"Explore model complexity for selected model (e.g., training time, interpretability).",ILO 6.1 - ML (sky),"221846, 2339001, 2365781",2024-06-05T21:59:00.000Z,0,,1,1,1,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+Review and Feedback,https://trello.com/c/6maPvioK/32-review-and-feedback,"Communication Feedback / Review Legal framework.
+Communication Feedback / Review ML.","ILO 1.4 - Feedback (yellow), ILO 1.5 - Communication (orange), ILO 3.1 - Legal Framework (blue), ILO 6.1 - ML (sky)","221846, 2334641, 2339001, 2365781",2024-06-06T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Evidencing & Documenting ILO 6.0 & 3.0,https://trello.com/c/l9vTzU1g/33-evidencing-documenting-ilo-60-30,,"ILO 3.1 - Legal Framework (blue), ILO 6.1 - ML (sky)","221846, 2334641, 2339001, 2365781",2024-06-07T21:59:00.000Z,0,,8,4,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Interface Design – Create Figma 2 version,https://trello.com/c/sfUlfQQ3/34-interface-design-create-figma-2-version,"Interface Design – Create Figma 2 version
+A - B",,"221846, 2365781",2024-06-10T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Team feedback for A/B version,https://trello.com/c/1zodi0zJ/35-team-feedback-for-a-b-version,Provide first feedback within the team about A / B,,"221846, 2334641, 2339001, 2365781",2024-06-10T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Conduct A / B test,https://trello.com/c/78oWaXKY/36-conduct-a-b-test,Conduct A / B with many users,,2334641,2024-06-10T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Analyse results of A / B test,https://trello.com/c/FjMVyTa8/37-analyse-results-of-a-b-test,Perform analyse for A / B test,,2334641,2024-06-11T21:59:00.000Z,1,https://github.com/BredaUniversityADSAI/2023-24d-fai1-adsai-teamwork-t18/blob/main/User%20testing/AB-test%20Analysis.ipynb,3,3,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Python scripts & review,https://trello.com/c/SfbF52zi/39-python-scripts-review,"Deliver Python scripts & review scripts with peer
+
+ILO 7 - POOR",ILO 7.1 - Deployment (green),,2024-06-11T21:59:00.000Z,0,,2,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Create virtual environment,https://trello.com/c/sgYcteC1/40-create-virtual-environment,,ILO 7.1 - Deployment (green),"221846, 2334641, 2339001, 2365781",2024-06-11T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Code cleaning,https://trello.com/c/LYRlHNYW/41-code-cleaning,"Code cleaning according to industry standards (logging, linting, doc strings, code formatting, refactoring).",ILO 7.1 - Deployment (green),,2024-06-12T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+"Set up logging framework (‘pylint’, ‘flake8’)",https://trello.com/c/Uw2qwoyg/42-set-up-logging-framework-pylint-flake8,"Set up logging framework (‘pylint’, ‘flake8’)",ILO 7.1 - Deployment (green),,2024-06-12T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Write docstrings for all functions and classes (code formatter ‘black’ ensures consistent code style).,https://trello.com/c/E3AT1H9b/43-write-docstrings-for-all-functions-and-classes-code-formatter-black-ensures-consistent-code-style,,ILO 7.1 - Deployment (green),2334641,2024-06-12T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Final code review,https://trello.com/c/TnHKoGss/44-final-code-review,,ILO 7.1 - Deployment (green),"221846, 2334641, 2339001, 2365781",2024-06-12T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Unit-Test,https://trello.com/c/GdiRV5QN/45-unit-test,Write unit-test for the code using ‘pytest’.,ILO 7.1 - Deployment (green),"221846, 2365781",2024-06-13T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Measure test coverage,https://trello.com/c/bVHtI7ei/46-measure-test-coverage,"Measure test coverage using ‘[coverage.py](http://coverage.py ""‌"")’ (30% coverage is required)",ILO 7.1 - Deployment (green),221846,2024-06-13T21:59:00.000Z,0,,2,2,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Project wrap-up meeting & Final template review.,https://trello.com/c/4P1wBJQJ/47-project-wrap-up-meeting-final-template-review,,"ILO 1.1 - Planning (lime), ILO 1.4 - Feedback (yellow), ILO 1.5 - Communication (orange), ILO 1.6 - Accountability (purple), ILO 3.1 - Legal Framework (blue), ILO 5.1 - Data & SQL (red), ILO 6.1 - ML (sky), ILO 7.1 - Deployment (green)","221846, 2334641, 2339001, 2365781",2024-06-13T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Confirm completed tasks (Jupiter notebook),https://trello.com/c/7v3qbF1n/49-confirm-completed-tasks-jupiter-notebook,,"ILO 1.4 - Feedback (yellow), ILO 1.5 - Communication (orange), ILO 1.6 - Accountability (purple), ILO 3.1 - Legal Framework (blue), ILO 4.1 - Business (yellow_light), ILO 5.1 - Data & SQL (red), ILO 6.1 - ML (sky), ILO 7.1 - Deployment (green)",,2024-06-17T21:59:00.000Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Task 3.1-3.3,https://trello.com/c/jhxlMaEF/52-task-31-33,"For the completion of task 3.3 we all need to have task 3.1 and 3.2 ready in the template. Please complete these before Friday, this involves mentioning the level of risk as well as some laws that we have to pay attention to. Once done we can discuss this on Friday and complete task 3.3",,"221846, 2334641, 2339001, 2365781",2024-06-06T21:59:00.000Z,0,,4,4,1,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,FALSE
+Put everything into one final notebook deliverable,https://trello.com/c/E5S0pIjw/53-put-everything-into-one-final-notebook-deliverable,,ILO 7.1 - Deployment (green),2365781,2024-06-13T12:23:08.318Z,0,,0,0,0,664dfe42848eff3785866ed5,Complete,664dfe41506c2f0a2c1d84af,DS&AI - Y1D - 18,FALSE,TRUE
+,,,,,,,,,,,Task % Completion:,92.86,,,,

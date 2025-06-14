@@ -1,0 +1,16 @@
+0:00  
+Okay, Sally, so can you please look over my model and my project model and just kind of explore around and give me some feedback on design, architecture, usage, so and so. 
+
+0:14  
+Okay, so now we're in the main page. I see the active orders list and the past deliveries list. I will press on the active orders. The active order right now is lemons, limes, strawberries and white wine. I cannot view the receipt, but that's not really necessary. There's the inventory smart camera, which shows a picture of a box of lemons with a red line around it, or like a red frame. Um, okay, okay, so after I press the image, it detected that it is two kilos of lemons. So that is the classification system. I'll press on stock management, okay, and statistics. Then we go back to home. Okay, so your design is good. I like, like, the colours are comforting. It does not hurt the eye. The contrast is good. Um, the buttons are kind of weird, because, like, for example, you can see here, like a home page, yeah, so you see the larger box, so you have two buttons here, but, yeah, um, other than that, maybe, like here you can in the camera situation, yeah, like, kind of expand, like, make the camera button larger. But I understand that this is a tablet, and they tend to have, like, very weird, yes, sizing, yeah, yeah. So yeah. But also the red line, you can, like, have a proper frame on it, rather than just around the lemon that, yeah, like, to make it look more realistic, you can have it like around it, and it can like, go through it. Because that's how apps kind of analyse it. Let's see with the stock management, are these items already in stock or not. That's what I'm trying to know. 
+
+2:43  
+Well, the green border around them is that they are, they have been classified in their past orders. And then the red, the one with the red border, for example, it did not manage to classify it. It needs to be manually inputted.
+
+2:59  
+Okay. Okay. So basically, you scan it through the app, and it will put it in stock management after it classified it, and if it didn't know, it will say unknown. Okay, okay, no, like, the idea is good. I see it. It's very good. But maybe you can change the buttons a bit, and with the, wait... how can we go back? Stock management? Yeah, like here, maybe you can change, change it up in a way that is easier to understand as a person. That doesn't work there. Yeah, that makes sense. Yeah, um, let's see. What else, yeah, also the statistics, statistics, no, okay, let's see. Okay, that's it, yeah.
+
+3:57  
+Thank you very much.
+
+Transcribed by https://otter.ai

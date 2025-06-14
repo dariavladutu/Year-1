@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "block-d"
+version = "0.1.0"
+description = ""
+authors = ["Daria & Ron - Group 18 <221846@buas.nl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+numpy = "^1.26.4"
+statsmodels = "^0.14.2"
+scikit-learn = "^1.5.0"
+tensorflow = "^2.16.1"
+psycopg2-binary = "^2.9.9"
+matplotlib = "^3.9.0"
+isort = "^5.13.2"
+black = "^24.4.2"
+flake8 = "^7.0.0"
+ipykernel = "^6.29.4"
+xgboost = "^2.0.3"
+seaborn = "^0.13.2"
+imblearn = "^0.0"
+missingno = "^0.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

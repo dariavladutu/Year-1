@@ -1,0 +1,7 @@
+Screenshots
+.DS_Store
+League of Legends
+.localized
+Week1Day4_Numpy_Warmup_Dir_236578.ipynb
+GitHub
+documents_file_names.txt
