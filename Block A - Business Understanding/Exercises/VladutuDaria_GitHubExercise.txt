@@ -1,0 +1,3 @@
+The perceptron (or McCulloch-Pitts neuron) is a supervised learning approach for binary classifiers in machine learning. A binary classifier is a function that determines whether an input, represented by a vector of numbers, belongs to a particular class. It is a linear classifier, or a classification technique that predicts based on a linear predictor function that combines a set of weights with the feature vector.
+
+Warren McCulloch and Walter Pitts created the perceptron in 1943. The first machine was created in 1958 at the Cornell Aeronautical Laboratory by Frank Rosenblatt and supported by the US Office of Naval Research.

@@ -1,0 +1,26 @@
+# Find, and describe one ‘milestone' in the history of AI. Be creative, so no ‘milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab I, week 2 
+---
+*The perceptron (or McCulloch-Pitts neuron)* is a supervised learning approach for binary classifiers in machine learning. A binary classifier is a function that determines whether an input, represented by a vector of numbers, belongs to a particular class. It is a linear classifier, or a classification technique that predicts based on a linear predictor function that combines a set of weights with the feature vector.
+
+## Warren McCulloch and Walter Pitts created the perceptron in 1943. The first machine was created in 1958 at the Cornell Aeronautical Laboratory by Frank Rosenblatt and supported by the US Office of Naval Research.
+
+
+# 3.1b Come up with at least one situation, where you could deploy a descriptive, diagnostic, predictive, and prescriptive analysis. Elaborate on your answer.
+
+---
+## I want to be more productive
+
+*Descriptive*: analyse in which months i might be more productive/ less productive, which days and which period of the day. 
+
+*Diagnostic*: discover why I am less productive in certain moments and link them to eachother.
+
+**Predictive**: forecast the days when I might be less productive for next week.
+
+**Prescriptive**: organize the workload for the next week as: harder/longer work for the statistically most productive days and easier/shorter work for the less productive moments.
+
+
+# Relevant Taxonomy of AI domains, and subdomains for AI presentation:
+---
+
+## Domains: Learning
+## Subdomains: Machine Learning
